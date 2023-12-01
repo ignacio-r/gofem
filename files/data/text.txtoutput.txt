@@ -1,0 +1,2 @@
+Original: I'm a content of a textfile
+ Double the Original: I'm a content of a textfileI'm a content of a textfile

@@ -1,0 +1,11 @@
+go 1.21.4
+
+use (
+	./calculator
+	./crypto
+	./fem
+	./files
+	./goroutines
+	./input_output
+	./museum
+)
